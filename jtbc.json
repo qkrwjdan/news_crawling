@@ -1,0 +1,30 @@
+{
+    "company" : "JTBC",
+    "url" : "https://news.jtbc.joins.com/",
+    "path" : "section/list.aspx?",
+    "query" : {
+        "pdate" : "date",
+        "scode" : {
+            "정치" : "10",
+            "경제" : "20",
+            "사회" : "30",
+            "국제" : "40",
+            "문화" : "50",
+            "연예" : "60",
+            "스포츠" : "70",
+            "날씨" : "80"
+        },
+        "etc" : {
+            "page" : "pgi",
+            "copyright" : "copyright"
+        }
+    },
+    "exclusive" : [
+        "정치부회의",
+        "뉴스룸",
+        "썰전 라이브",
+        "다시보기",
+        "클로징",
+        "주요뉴스"
+    ]
+}
